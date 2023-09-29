@@ -1,0 +1,18 @@
+current directory: /Users/tatsuya/Desktop/workspace/react/Todo-app/.bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/tatsuya/.rbenv/versions/3.1.4/bin/ruby -I /Users/tatsuya/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/tatsuya/Desktop/workspace/react/Todo-app/.bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230929-54986-chb5ja sitelibdir\=./.gem.20230929-54986-chb5ja clean
+
+current directory: /Users/tatsuya/Desktop/workspace/react/Todo-app/.bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230929-54986-chb5ja sitelibdir\=./.gem.20230929-54986-chb5ja
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/tatsuya/Desktop/workspace/react/Todo-app/.bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230929-54986-chb5ja sitelibdir\=./.gem.20230929-54986-chb5ja install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20230929-54986-chb5ja/racc

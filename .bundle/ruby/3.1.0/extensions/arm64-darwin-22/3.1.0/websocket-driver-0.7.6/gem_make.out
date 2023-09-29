@@ -1,0 +1,16 @@
+current directory: /Users/tatsuya/Desktop/workspace/react/Todo-app/.bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/tatsuya/.rbenv/versions/3.1.4/bin/ruby -I /Users/tatsuya/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/tatsuya/Desktop/workspace/react/Todo-app/.bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230929-54986-v0btsd sitelibdir\=./.gem.20230929-54986-v0btsd clean
+
+current directory: /Users/tatsuya/Desktop/workspace/react/Todo-app/.bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230929-54986-v0btsd sitelibdir\=./.gem.20230929-54986-v0btsd
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/tatsuya/Desktop/workspace/react/Todo-app/.bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230929-54986-v0btsd sitelibdir\=./.gem.20230929-54986-v0btsd install
+/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20230929-54986-v0btsd
